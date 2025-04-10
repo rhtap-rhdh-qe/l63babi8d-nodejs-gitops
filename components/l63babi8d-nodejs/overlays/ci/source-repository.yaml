@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: l63babi8d-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/l63babi8d-nodejs
